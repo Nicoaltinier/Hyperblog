@@ -5,3 +5,7 @@ text-align: center;
 font-family: Courier;
 }
 
+#container h1
+{
+    font-size: 20px;
+}
